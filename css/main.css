@@ -5,11 +5,23 @@ h1 {
 
 body {
   text-align: center;
-  background: linear-gradient(#fff, #750419, #080419, #000);
+  background: #191A19;
 }
 
 p {
   font-size: 1.3em;
   text-align: left;
   color: #fff;
+}
+* {
+  font-family: 'Abel', sans-serif;
+}
+
+#StrayKids {
+  margin: 0;
+  padding: 0;
+}
+
+#from {
+  padding-left: 30px;
 }
